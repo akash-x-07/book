@@ -645,6 +645,8 @@ section {
   line-height: 1.8;
   color: #cccccc;
   font-family: 'Poppins', sans-serif;
+  word-spacing: 2px;
+  letter-spacing: 1px;
 }
 
 .about-img {
@@ -883,3 +885,4 @@ section {
   transform: none;
 
 }
+
