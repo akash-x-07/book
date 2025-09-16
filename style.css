@@ -644,6 +644,7 @@ section {
   font-size: 1.25rem;
   line-height: 1.8;
   color: #cccccc;
+  font-family: 'Poppins', sans-serif;
 }
 
 .about-img {
@@ -880,4 +881,5 @@ section {
 .fade-in-section.is-visible {
   opacity: 1;
   transform: none;
+
 }
