@@ -536,6 +536,7 @@ section {
 .extra-content {
   display: flex;
   align-items: flex-start;
+  font-family: 'Poppins', sans-serif;
   gap: 15px;
   background: rgba(20, 25, 40, 0.95);
   padding: 20px;
@@ -885,5 +886,6 @@ section {
   transform: none;
 
 }
+
 
 
