@@ -622,6 +622,7 @@ section {
   text-align: center;
   animation: fadeIn 1.5s ease-in-out;
   overflow: hidden;
+   font-family: 'Segoe UI', sans-serif;
 }
 section {
   margin-bottom: 80px;
@@ -644,7 +645,6 @@ section {
   font-size: 1.25rem;
   line-height: 1.8;
   color: #cccccc;
-  font-family: 'Poppins', sans-serif;
   word-spacing: 2px;
   letter-spacing: 1px;
 }
@@ -885,4 +885,5 @@ section {
   transform: none;
 
 }
+
 
